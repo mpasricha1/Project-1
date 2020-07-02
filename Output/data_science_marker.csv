@@ -1,0 +1,11 @@
+city,job count,Lat,Lng,Metro,Dimension Type,Month,Dimension,Measure,Value,YoY,Cost of Living Index,Opportunity Ranking
+Atlanta,3,33.749,-84.38799999999999,Atlanta,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 111,346",6.1%,89.2,6
+Boston,20,42.3601,-71.0589,Boston,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 125,362",6.8%,131.6,7
+Chicago,16,41.8781,-87.6298,Chicago,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 112,504",7.0%,94.5,5
+Houston,1,29.7604,-95.3698,Houston,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 120,562",8.7%,91.5,3.5
+Los Angeles,3,34.0522,-118.2437,Los Angeles,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 128,747",6.2%,151.7,10
+New York,84,40.7128,-74.006,New York,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 124,675",6.5%,139.1,1
+Philadelphia,8,39.9526,-75.1652,Philadelphia,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 107,102",5.2%,101.7,9
+San Francisco,63,37.7749,-122.4194,San Francisco,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 153,254",6.4%,151.7,2
+Seattle,28,47.6062,-122.3321,Seattle,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 138,522",6.2%,110.7,3.5
+Washington,12,38.9072,-77.0369,Washington,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 114,334",6.5%,158.4,8

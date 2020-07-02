@@ -1,0 +1,201 @@
+Metro,Dimension Type,Month,Dimension,Measure,Value,YoY
+Atlanta,Job Title,2019-01,Data Scientist,Median Base Pay,"$100,304 ",0.90%
+Atlanta,Job Title,2019-01,Data Analyst,Median Base Pay,"$66,636 ",2.90%
+Boston,Job Title,2019-01,Data Scientist,Median Base Pay,"$112,119 ",0.90%
+Boston,Job Title,2019-01,Data Analyst,Median Base Pay,"$72,037 ",3.00%
+Chicago,Job Title,2019-01,Data Scientist,Median Base Pay,"$103,477 ",0.60%
+Chicago,Job Title,2019-01,Data Analyst,Median Base Pay,"$66,489 ",2.70%
+Houston,Job Title,2019-01,Data Scientist,Median Base Pay,"$111,239 ",-0.60%
+Houston,Job Title,2019-01,Data Analyst,Median Base Pay,"$65,344 ",1.50%
+Los Angeles,Job Title,2019-01,Data Scientist,Median Base Pay,"$117,882 ",1.10%
+Los Angeles,Job Title,2019-01,Data Analyst,Median Base Pay,"$73,883 ",3.20%
+NYC,Job Title,2019-01,Data Scientist,Median Base Pay,"$114,351 ",1.20%
+NYC,Job Title,2019-01,Data Analyst,Median Base Pay,"$73,271 ",3.20%
+Philadelphia,Job Title,2019-01,Data Scientist,Median Base Pay,"$103,698 ",1.30%
+Philadelphia,Job Title,2019-01,Data Analyst,Median Base Pay,"$65,026 ",3.40%
+San Francisco,Job Title,2019-01,Data Scientist,Median Base Pay,"$139,799 ",1.80%
+San Francisco,Job Title,2019-01,Data Analyst,Median Base Pay,"$92,107 ",3.90%
+Seattle,Job Title,2019-01,Data Scientist,Median Base Pay,"$127,949 ",1.00%
+Seattle,Job Title,2019-01,Data Analyst,Median Base Pay,"$72,679 ",3.00%
+Washington DC,Job Title,2019-01,Data Scientist,Median Base Pay,"$107,215 ",0.80%
+Washington DC,Job Title,2019-01,Data Analyst,Median Base Pay,"$73,478 ",2.90%
+Atlanta,Job Title,2019-02,Data Analyst,Median Base Pay,"$66,951 ",2.60%
+Atlanta,Job Title,2019-02,Data Scientist,Median Base Pay,"$98,741 ",-0.50%
+Boston,Job Title,2019-02,Data Scientist,Median Base Pay,"$111,553 ",-0.30%
+Boston,Job Title,2019-02,Data Analyst,Median Base Pay,"$71,794 ",2.80%
+Chicago,Job Title,2019-02,Data Scientist,Median Base Pay,"$104,876 ",-1.00%
+Chicago,Job Title,2019-02,Data Analyst,Median Base Pay,"$65,931 ",2.00%
+Houston,Job Title,2019-02,Data Scientist,Median Base Pay,"$108,143 ",-2.70%
+Houston,Job Title,2019-02,Data Analyst,Median Base Pay,"$65,427 ",0.30%
+Los Angeles,Job Title,2019-02,Data Scientist,Median Base Pay,"$115,115 ",-0.40%
+Los Angeles,Job Title,2019-02,Data Analyst,Median Base Pay,"$73,704 ",2.70%
+NYC,Job Title,2019-02,Data Scientist,Median Base Pay,"$113,208 ",-0.70%
+NYC,Job Title,2019-02,Data Analyst,Median Base Pay,"$73,044 ",2.40%
+Philadelphia,Job Title,2019-02,Data Scientist,Median Base Pay,"$105,002 ",-0.90%
+Philadelphia,Job Title,2019-02,Data Analyst,Median Base Pay,"$65,268 ",2.10%
+San Francisco,Job Title,2019-02,Data Scientist,Median Base Pay,"$137,120 ",-0.20%
+San Francisco,Job Title,2019-02,Data Analyst,Median Base Pay,"$91,682 ",2.90%
+Seattle,Job Title,2019-02,Data Scientist,Median Base Pay,"$125,726 ",-0.40%
+Seattle,Job Title,2019-02,Data Analyst,Median Base Pay,"$72,666 ",2.70%
+Washington DC,Job Title,2019-02,Data Scientist,Median Base Pay,"$106,639 ",-0.50%
+Washington DC,Job Title,2019-02,Data Analyst,Median Base Pay,"$73,478 ",2.60%
+Atlanta,Job Title,2019-03,Data Analyst,Median Base Pay,"$66,680 ",2.70%
+Atlanta,Job Title,2019-03,Data Scientist,Median Base Pay,"$98,690 ",-0.70%
+Boston,Job Title,2019-03,Data Scientist,Median Base Pay,"$110,287 ",-0.50%
+Boston,Job Title,2019-03,Data Analyst,Median Base Pay,"$71,750 ",2.80%
+Chicago,Job Title,2019-03,Data Scientist,Median Base Pay,"$101,298 ",-0.80%
+Chicago,Job Title,2019-03,Data Analyst,Median Base Pay,"$66,319 ",2.50%
+Houston,Job Title,2019-03,Data Scientist,Median Base Pay,"$107,427 ",-2.70%
+Houston,Job Title,2019-03,Data Analyst,Median Base Pay,"$65,023 ",0.60%
+Los Angeles,Job Title,2019-03,Data Scientist,Median Base Pay,"$115,076 ",-0.70%
+Los Angeles,Job Title,2019-03,Data Analyst,Median Base Pay,"$73,685 ",2.60%
+NYC,Job Title,2019-03,Data Scientist,Median Base Pay,"$113,051 ",-0.90%
+NYC,Job Title,2019-03,Data Analyst,Median Base Pay,"$72,986 ",2.40%
+Philadelphia,Job Title,2019-03,Data Scientist,Median Base Pay,"$102,996 ",-1.20%
+Philadelphia,Job Title,2019-03,Data Analyst,Median Base Pay,"$65,277 ",2.10%
+San Francisco,Job Title,2019-03,Data Scientist,Median Base Pay,"$138,932 ",-0.10%
+San Francisco,Job Title,2019-03,Data Analyst,Median Base Pay,"$92,063 ",3.20%
+Seattle,Job Title,2019-03,Data Scientist,Median Base Pay,"$125,768 ",-1.00%
+Seattle,Job Title,2019-03,Data Analyst,Median Base Pay,"$72,398 ",2.40%
+Washington DC,Job Title,2019-03,Data Scientist,Median Base Pay,"$104,809 ",-0.50%
+Washington DC,Job Title,2019-03,Data Analyst,Median Base Pay,"$73,505 ",2.90%
+Atlanta,Job Title,2019-04,Data Scientist,Median Base Pay,"$ 100,455",1.6%
+Atlanta,Job Title,2019-04,Data Analyst,Median Base Pay,"$ 66,783",2.9%
+Boston,Job Title,2019-04,Data Scientist,Median Base Pay,"$ 112,331",1.2%
+Boston,Job Title,2019-04,Data Analyst,Median Base Pay,"$ 72,404",2.6%
+Chicago,Job Title,2019-04,Data Scientist,Median Base Pay,"$ 102,347",1.1%
+Chicago,Job Title,2019-04,Data Analyst,Median Base Pay,"$ 66,610",2.4%
+Houston,Job Title,2019-04,Data Scientist,Median Base Pay,"$ 109,317",-1.1%
+Houston,Job Title,2019-04,Data Analyst,Median Base Pay,"$ 65,400",0.2%
+Los Angeles,Job Title,2019-04,Data Scientist,Median Base Pay,"$ 116,943",1.3%
+Los Angeles,Job Title,2019-04,Data Analyst,Median Base Pay,"$ 74,005",2.6%
+NYC,Job Title,2019-04,Data Scientist,Median Base Pay,"$ 114,913",1.4%
+NYC,Job Title,2019-04,Data Analyst,Median Base Pay,"$ 73,499",2.7%
+Philadelphia,Job Title,2019-04,Data Scientist,Median Base Pay,"$ 104,080",1.0%
+Philadelphia,Job Title,2019-04,Data Analyst,Median Base Pay,"$ 65,726",2.3%
+San Francisco,Job Title,2019-04,Data Scientist,Median Base Pay,"$ 141,511",2.0%
+San Francisco,Job Title,2019-04,Data Analyst,Median Base Pay,"$ 92,910",3.4%
+Seattle,Job Title,2019-04,Data Scientist,Median Base Pay,"$ 127,464",1.4%
+Seattle,Job Title,2019-04,Data Analyst,Median Base Pay,"$ 73,009",2.7%
+Washington DC,Job Title,2019-04,Data Scientist,Median Base Pay,"$ 105,172",1.0%
+Washington DC,Job Title,2019-04,Data Analyst,Median Base Pay,"$ 74,094",2.3%
+Atlanta,Job Title,2019-05,Data Scientist,Median Base Pay,"$ 100,448",2.6%
+Atlanta,Job Title,2019-05,Data Analyst,Median Base Pay,"$ 66,719",2.0%
+Boston,Job Title,2019-05,Data Scientist,Median Base Pay,"$ 112,875",2.5%
+Boston,Job Title,2019-05,Data Analyst,Median Base Pay,"$ 72,451",1.9%
+Chicago,Job Title,2019-05,Data Scientist,Median Base Pay,"$ 102,897",2.2%
+Chicago,Job Title,2019-05,Data Analyst,Median Base Pay,"$ 66,550",1.6%
+Houston,Job Title,2019-05,Data Scientist,Median Base Pay,"$ 111,309",1.0%
+Houston,Job Title,2019-05,Data Analyst,Median Base Pay,"$ 66,040",0.4%
+Los Angeles,Job Title,2019-05,Data Scientist,Median Base Pay,"$ 117,686",2.6%
+Los Angeles,Job Title,2019-05,Data Analyst,Median Base Pay,"$ 73,982",2.0%
+NYC,Job Title,2019-05,Data Scientist,Median Base Pay,"$ 115,037",2.4%
+NYC,Job Title,2019-05,Data Analyst,Median Base Pay,"$ 73,343",1.8%
+Philadelphia,Job Title,2019-05,Data Scientist,Median Base Pay,"$ 104,407",2.3%
+Philadelphia,Job Title,2019-05,Data Analyst,Median Base Pay,"$ 65,561",1.7%
+San Francisco,Job Title,2019-05,Data Scientist,Median Base Pay,"$ 141,996",3.4%
+San Francisco,Job Title,2019-05,Data Analyst,Median Base Pay,"$ 92,930",2.8%
+Seattle,Job Title,2019-05,Data Scientist,Median Base Pay,"$ 127,463",3.0%
+Seattle,Job Title,2019-05,Data Analyst,Median Base Pay,"$ 72,822",2.4%
+Washington DC,Job Title,2019-05,Data Scientist,Median Base Pay,"$ 105,419",2.5%
+Washington DC,Job Title,2019-05,Data Analyst,Median Base Pay,"$ 73,920",1.9%
+Atlanta,Job Title,2020-01,Data Scientist,Median Base Pay,"$ 105,001",1.9%
+Atlanta,Job Title,2020-01,Data Analyst,Median Base Pay,"$ 68,739",3.5%
+Boston,Job Title,2020-01,Data Scientist,Median Base Pay,"$ 115,763",2.3%
+Boston,Job Title,2020-01,Data Analyst,Median Base Pay,"$ 74,795",3.9%
+Chicago,Job Title,2020-01,Data Scientist,Median Base Pay,"$ 106,222",2.0%
+Chicago,Job Title,2020-01,Data Analyst,Median Base Pay,"$ 68,325",3.6%
+Houston,Job Title,2020-01,Data Scientist,Median Base Pay,"$ 113,331",2.3%
+Houston,Job Title,2020-01,Data Analyst,Median Base Pay,"$ 68,262",3.9%
+Los Angeles,Job Title,2020-01,Data Scientist,Median Base Pay,"$ 122,011",2.6%
+Los Angeles,Job Title,2020-01,Data Analyst,Median Base Pay,"$ 76,075",4.1%
+NYC,Job Title,2020-01,Data Scientist,Median Base Pay,"$ 118,464",2.6%
+NYC,Job Title,2020-01,Data Analyst,Median Base Pay,"$ 76,141",4.2%
+Philadelphia,Job Title,2020-01,Data Scientist,Median Base Pay,"$ 104,963",1.0%
+Philadelphia,Job Title,2020-01,Data Analyst,Median Base Pay,"$ 66,945",2.6%
+San Francisco,Job Title,2020-01,Data Scientist,Median Base Pay,"$ 144,218",2.9%
+San Francisco,Job Title,2020-01,Data Analyst,Median Base Pay,"$ 95,172",4.5%
+Seattle,Job Title,2020-01,Data Scientist,Median Base Pay,"$ 129,929",1.6%
+Seattle,Job Title,2020-01,Data Analyst,Median Base Pay,"$ 75,197",3.2%
+Washington DC,Job Title,2020-01,Data Scientist,Median Base Pay,"$ 108,455",1.6%
+Washington DC,Job Title,2020-01,Data Analyst,Median Base Pay,"$ 76,561",3.2%
+Atlanta,Job Title,2020-02,Data Scientist,Median Base Pay,"$ 106,677",2.3%
+Atlanta,Job Title,2020-02,Data Analyst,Median Base Pay,"$ 68,527",2.3%
+Boston,Job Title,2020-02,Data Scientist,Median Base Pay,"$ 118,664",2.6%
+Boston,Job Title,2020-02,Data Analyst,Median Base Pay,"$ 74,655",2.6%
+Chicago,Job Title,2020-02,Data Scientist,Median Base Pay,"$ 108,112",3.7%
+Chicago,Job Title,2020-02,Data Analyst,Median Base Pay,"$ 69,030",3.7%
+Houston,Job Title,2020-02,Data Scientist,Median Base Pay,"$ 114,483",3.2%
+Houston,Job Title,2020-02,Data Analyst,Median Base Pay,"$ 67,721",3.1%
+Los Angeles,Job Title,2020-02,Data Scientist,Median Base Pay,"$ 123,571",3.4%
+Los Angeles,Job Title,2020-02,Data Analyst,Median Base Pay,"$ 76,570",3.3%
+NYC,Job Title,2020-02,Data Scientist,Median Base Pay,"$ 119,696",3.4%
+NYC,Job Title,2020-02,Data Analyst,Median Base Pay,"$ 76,875",3.4%
+Philadelphia,Job Title,2020-02,Data Scientist,Median Base Pay,"$ 101,979",2.1%
+Philadelphia,Job Title,2020-02,Data Analyst,Median Base Pay,"$ 67,773",2.0%
+San Francisco,Job Title,2020-02,Data Scientist,Median Base Pay,"$ 146,485",4.6%
+San Francisco,Job Title,2020-02,Data Analyst,Median Base Pay,"$ 95,089",4.5%
+Seattle,Job Title,2020-02,Data Scientist,Median Base Pay,"$ 132,420",3.6%
+Seattle,Job Title,2020-02,Data Analyst,Median Base Pay,"$ 76,217",3.6%
+Washington DC,Job Title,2020-02,Data Scientist,Median Base Pay,"$ 109,580",2.9%
+Washington DC,Job Title,2020-02,Data Analyst,Median Base Pay,"$ 76,692",2.8%
+Atlanta,Job Title,2020-03,Data Scientist,Median Base Pay,"$ 106,604",2.1%
+Atlanta,Job Title,2020-03,Data Analyst,Median Base Pay,"$ 69,419",2.9%
+Boston,Job Title,2020-03,Data Scientist,Median Base Pay,"$ 118,165",2.7%
+Boston,Job Title,2020-03,Data Analyst,Median Base Pay,"$ 75,150",3.5%
+Chicago,Job Title,2020-03,Data Scientist,Median Base Pay,"$ 107,757",3.2%
+Chicago,Job Title,2020-03,Data Analyst,Median Base Pay,"$ 69,665",4.1%
+Houston,Job Title,2020-03,Data Scientist,Median Base Pay,"$ 113,406",2.3%
+Houston,Job Title,2020-03,Data Analyst,Median Base Pay,"$ 67,954",3.1%
+Los Angeles,Job Title,2020-03,Data Scientist,Median Base Pay,"$ 123,429",3.5%
+Los Angeles,Job Title,2020-03,Data Analyst,Median Base Pay,"$ 77,248",4.3%
+NYC,Job Title,2020-03,Data Scientist,Median Base Pay,"$ 119,840",3.2%
+NYC,Job Title,2020-03,Data Analyst,Median Base Pay,"$ 77,642",4.0%
+Philadelphia,Job Title,2020-03,Data Scientist,Median Base Pay,"$ 102,042",0.9%
+Philadelphia,Job Title,2020-03,Data Analyst,Median Base Pay,"$ 67,973",1.8%
+San Francisco,Job Title,2020-03,Data Scientist,Median Base Pay,"$ 146,240",3.7%
+San Francisco,Job Title,2020-03,Data Analyst,Median Base Pay,"$ 95,764",4.5%
+Seattle,Job Title,2020-03,Data Scientist,Median Base Pay,"$ 133,128",3.7%
+Seattle,Job Title,2020-03,Data Analyst,Median Base Pay,"$ 78,058",4.6%
+Washington DC,Job Title,2020-03,Data Scientist,Median Base Pay,"$ 109,761",3.1%
+Washington DC,Job Title,2020-03,Data Analyst,Median Base Pay,"$ 78,357",3.9%
+Atlanta,Job Title,2020-04,Data Scientist,Median Base Pay,"$ 110,286",4.3%
+Atlanta,Job Title,2020-04,Data Analyst,Median Base Pay,"$ 70,104",4.2%
+Boston,Job Title,2020-04,Data Scientist,Median Base Pay,"$ 122,364",5.3%
+Boston,Job Title,2020-04,Data Analyst,Median Base Pay,"$ 76,819",5.2%
+Chicago,Job Title,2020-04,Data Scientist,Median Base Pay,"$ 111,279",6.3%
+Chicago,Job Title,2020-04,Data Analyst,Median Base Pay,"$ 71,213",6.2%
+Houston,Job Title,2020-04,Data Scientist,Median Base Pay,"$ 117,150",6.5%
+Houston,Job Title,2020-04,Data Analyst,Median Base Pay,"$ 70,318",6.4%
+Los Angeles,Job Title,2020-04,Data Scientist,Median Base Pay,"$ 127,506",5.4%
+Los Angeles,Job Title,2020-04,Data Analyst,Median Base Pay,"$ 78,283",5.3%
+NYC,Job Title,2020-04,Data Scientist,Median Base Pay,"$ 124,080",5.2%
+NYC,Job Title,2020-04,Data Analyst,Median Base Pay,"$ 79,434",5.1%
+Philadelphia,Job Title,2020-04,Data Scientist,Median Base Pay,"$ 106,275",4.2%
+Philadelphia,Job Title,2020-04,Data Analyst,Median Base Pay,"$ 69,810",4.0%
+San Francisco,Job Title,2020-04,Data Scientist,Median Base Pay,"$ 150,902",5.4%
+San Francisco,Job Title,2020-04,Data Analyst,Median Base Pay,"$ 97,023",5.2%
+Seattle,Job Title,2020-04,Data Scientist,Median Base Pay,"$ 137,555",5.1%
+Seattle,Job Title,2020-04,Data Analyst,Median Base Pay,"$ 78,649",5.0%
+Washington DC,Job Title,2020-04,Data Scientist,Median Base Pay,"$ 113,343",5.4%
+Washington DC,Job Title,2020-04,Data Analyst,Median Base Pay,"$ 79,866",5.3%
+Atlanta,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 111,346",6.1%
+Atlanta,Job Title,2020-05,Data Analyst,Median Base Pay,"$ 69,913",4.4%
+Boston,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 125,362",6.8%
+Boston,Job Title,2020-05,Data Analyst,Median Base Pay,"$ 77,030",5.1%
+Chicago,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 112,504",7.0%
+Chicago,Job Title,2020-05,Data Analyst,Median Base Pay,"$ 70,995",5.3%
+Houston,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 120,562",8.7%
+Houston,Job Title,2020-05,Data Analyst,Median Base Pay,"$ 71,224",7.0%
+Los Angeles,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 128,747",6.2%
+Los Angeles,Job Title,2020-05,Data Analyst,Median Base Pay,"$ 78,112",4.5%
+NYC,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 124,675",6.5%
+NYC,Job Title,2020-05,Data Analyst,Median Base Pay,"$ 79,406",4.8%
+Philadelphia,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 107,102",5.2%
+Philadelphia,Job Title,2020-05,Data Analyst,Median Base Pay,"$ 69,289",3.5%
+San Francisco,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 153,254",6.4%
+San Francisco,Job Title,2020-05,Data Analyst,Median Base Pay,"$ 97,145",4.7%
+Seattle,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 138,522",6.2%
+Seattle,Job Title,2020-05,Data Analyst,Median Base Pay,"$ 78,551",4.6%
+Washington DC,Job Title,2020-05,Data Scientist,Median Base Pay,"$ 114,334",6.5%
+Washington DC,Job Title,2020-05,Data Analyst,Median Base Pay,"$ 79,958",4.8%

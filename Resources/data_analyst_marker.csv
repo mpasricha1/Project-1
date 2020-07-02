@@ -1,0 +1,11 @@
+city,job count,Lat,Lng,Metro,Dimension Type,Month,Dimension,Measure,Value,YoY,Opportunity Ranking
+Atlanta,11,33.749,-84.388,Atlanta,Job Title,2020-05,Data Analyst,Median Base Pay,69913,4.40%,4.5
+Boston,14,42.3601,-71.0589,Boston,Job Title,2020-05,Data Analyst,Median Base Pay,77030,5.10%,7
+Chicago,15,41.8781,-87.6298,Chicago,Job Title,2020-05,Data Analyst,Median Base Pay,70995,5.30%,3
+Houston,2,29.7604,-95.3698,Houston,Job Title,2020-05,Data Analyst,Median Base Pay,71224,7.00%,2
+Los Angeles,9,34.0522,-118.2437,Los Angeles,Job Title,2020-05,Data Analyst,Median Base Pay,78112,4.50%,10
+New York,78,40.7128,-74.006,New York,Job Title,2020-05,Data Analyst,Median Base Pay,79406,4.80%,1
+Philadelphia,4,39.9526,-75.1652,Philadelphia,Job Title,2020-05,Data Analyst,Median Base Pay,69289,3.50%,8.5
+San Francisco,35,37.7749,-122.4194,San Francisco,Job Title,2020-05,Data Analyst,Median Base Pay,97145,4.70%,4.5
+Seattle,15,47.6062,-122.3321,Seattle,Job Title,2020-05,Data Analyst,Median Base Pay,78551,4.60%,6
+Washington,6,38.9072,-77.0369,Washington,Job Title,2020-05,Data Analyst,Median Base Pay,79958,4.80%,8.5

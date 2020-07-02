@@ -1,0 +1,10 @@
+State,costIndex,costRank,groceryCost,housingCost,utilitiesCost,transportationCost,miscCost
+Georgia,89.2,9,96.9,73.8,92.4,97.6,98.5
+Texas,91.5,18,88.9,85.3,102.3,91.4,96.2
+Illinois,94.5,21,94.2,87.2,100.9,100.9,99.0
+Pennsylvania,101.7,32,106.9,100.8,106.0,109.5,91.9
+Washington,110.7,38,107.8,117.8,88.7,121.7,118.9
+Massachusetts,131.6,46,113.9,170.3,109.7,116.0,117.6
+New York,139.1,48,114.8,204.4,108.7,116.6,104.8
+California,151.7,49,121.4,227.3,117.7,138.9,114.5
+Washington DC,158.4,50,115.5,267.0,119.7,116.6,97.3
